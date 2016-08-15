@@ -3,9 +3,9 @@ An antique Mandelbrot-/Julia plotter written in Modula 2 for Amiga
 
 # Background
 
-This is a program I write for a project in school about Mandelbrot and Julia.
+This is a program I wrote for a project at school about Mandelbrot and Julia.
 
-My classmates wrote boring monochrome plotters with Turbo Pascal on boring PC's. My approach was to write a Modula 2 version on my beloved Amiga computer with colors and mouse user interface. It's primitive, but there was a time limit to write this program. I was very proud of the result back at that time.
+My classmates wrote boring monochrome plotters with Turbo Pascal on boring PC's. My approach was to write a Modula 2 version on my beloved Amiga computer with colors and a mouse user interface. It's primitive, but there was a time limit to write this program. I was very proud of the result back at that time.
 
 # Requirements
 
