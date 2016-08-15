@@ -1,11 +1,15 @@
 # Mandel-Julia-Plotter
 An antique Mandelbrot-/Julia plotter written in Modula 2 for Amiga
 
+![Mandel-/Julia plotter](julia-plotter.png)
+
 # Background
 
 This is a program I wrote for a project at school about Mandelbrot and Julia.
 
-My classmates wrote boring monochrome plotters with Turbo Pascal on boring PC's. My approach was to write a Modula 2 version on my beloved Amiga computer with colors and a mouse user interface. It's primitive, but there was a time limit to write this program. I was very proud of the result back at that time.
+My classmates wrote boring monochrome plotters with Turbo Pascal on boring PC's. Two classmates wrote a version for two [Atari ST](https://en.wikipedia.org/wiki/Atari_ST) computers which were connected via MIDI to calculate by multiprocessing. That was pretty cool.
+
+My approach was to write a Modula 2 version on my beloved Amiga computer with colors and a mouse user interface. It's primitive, but there was a time limit to write this program. I was very proud of the result back at that time.
 
 # Requirements
 
